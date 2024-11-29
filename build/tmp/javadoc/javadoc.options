@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\build\\classes\\java\\main;C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\build\\resources\\main'
+-d 'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\build\\docs\\javadoc'
+-doctitle 'libraryGradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'libraryGradle 1.0-SNAPSHOT API'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\Book.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\BookCatalog.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\BookNotFoundException.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\Customer.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\Loan.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\LoanAlreadyExistsException.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\LoanNotFoundException.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\model\\Material.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\ui\\Main.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\utilities\\GenderType.java'
+'C:\\Users\\Admin\\ShaYrgo\\IntelliJIDE\\gradle\\libraryGradle\\src\\main\\java\\utilities\\LoanStatus.java'

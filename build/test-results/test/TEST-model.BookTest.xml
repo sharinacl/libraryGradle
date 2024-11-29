@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.BookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-29T19:44:52" hostname="SHARINA" time="0.003">
+  <properties/>
+  <testcase name="test2NonEqualBooks()" classname="model.BookTest" time="0.001"/>
+  <testcase name="test2EqualBooks()" classname="model.BookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
